@@ -1,7 +1,7 @@
 ## Hi there,  I'm Sherella From Beautify Moi!  👋
 💄 Full-Stack Developer & Beauty Enthusiast  
 📍 Based in Dubai & London  
-🚀 Passionate about tech, , architecture, design, and beauty  
+🚀 Passionate about tech, architecture, design, and beauty  
 🌱 Currently learning JavaScript, React, and mobile app development  
 💼 Looking for full-stack dev roles  
 
