@@ -1,8 +1,4 @@
 ## Hi there,  I'm Sherella From Beautify Moi!  👋
-
-<!--
-**BeautifyMoi/BeautifyMoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 💄 Full-Stack Developer & Beauty Enthusiast  
 📍 Based in Dubai & London  
 🚀 Passionate about tech, , architecture, design, and beauty  
@@ -14,5 +10,9 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sherella-johnson-b78059110?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---
-✨ *Stay fabulous & keep coding!* ✨  
+✨ *Stay fabulous & keep coding!* ✨ 
+<!--
+**BeautifyMoi/BeautifyMoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 
 -->
